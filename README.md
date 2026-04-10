@@ -59,7 +59,9 @@ pip install -r requirements.txt
 
 Download all required files from Google Drive:
 
-👉 **[Drive Link Here]**
+[GitHub Link](https://github.com/kairo786/attention-based-Transformer-models-for-motion-pattern-analysis)
+
+[Drive Link](https://drive.google.com/drive/folders/1n7W1V5KksnHhLEg8NcDRZ1csSFvgXQJr?usp=sharing)
 
 Contents:
 
