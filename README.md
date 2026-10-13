@@ -182,8 +182,8 @@ Shows:
 
 ## 👨‍💻 Author
 
-**Ankit Kumar kero**
-ECE, IIT Patna
+**Rakesh**
+EP, IIT Patna
 
 ---
 
